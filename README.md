@@ -1,4 +1,5 @@
 Image Segmentation Project
+
 This project provides a demonstration of several fundamental image segmentation techniques using Python and the OpenCV library. The code is structured as a single, self-contained script that applies different segmentation methods to a given image and displays the results.
 
 The project is designed to be run in any Python environment where the required libraries are installed, including local machines or cloud platforms like Google Colab.
